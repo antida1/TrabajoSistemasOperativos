@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">TrabajoSo</string>
+    <string name="titulo_registro">Formulario de Registro</string>
+    <string name="nombre_completo">Nombre completo: </string>
+    <string name="email">Email:  </string>
+    <string name="cedula">Cédula:  </string>
+    <string name="boton_enviar">Enviar  </string>
 </resources>
